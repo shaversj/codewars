@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/codewars.iml" filepath="$PROJECT_DIR$/codewars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-sentence-java/reverse-sentence-java.iml" filepath="$PROJECT_DIR$/reverse-sentence-java/reverse-sentence-java.iml" />
     </modules>
   </component>
 </project>
