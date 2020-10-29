@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/codewars.iml" filepath="$PROJECT_DIR$/codewars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum-of-intervals/sum-of-intervals.iml" filepath="$PROJECT_DIR$/sum-of-intervals/sum-of-intervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/tic-tac-toe-checker/tic-tac-toe-checker.iml" filepath="$PROJECT_DIR$/tic-tac-toe-checker/tic-tac-toe-checker.iml" />
     </modules>
   </component>
