@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/codewars.iml" filepath="$PROJECT_DIR$/codewars.iml" />
       <module fileurl="file://$PROJECT_DIR$/sum-of-intervals/sum-of-intervals.iml" filepath="$PROJECT_DIR$/sum-of-intervals/sum-of-intervals.iml" />
       <module fileurl="file://$PROJECT_DIR$/tic-tac-toe-checker/tic-tac-toe-checker.iml" filepath="$PROJECT_DIR$/tic-tac-toe-checker/tic-tac-toe-checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valid-braces-py/valid-braces-py.iml" filepath="$PROJECT_DIR$/valid-braces-py/valid-braces-py.iml" />
     </modules>
   </component>
 </project>
